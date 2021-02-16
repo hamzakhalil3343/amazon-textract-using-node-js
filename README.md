@@ -1,5 +1,5 @@
 For Testing ,update config.js and just run the command ...
                                    
-                                                            node index.js scan Capture.JPG
+                               node index.js scan Testdata.JPG
 
 For Basic Learning ,visit https://medium.com/@hatemalimam/extract-text-and-data-from-any-document-using-amazon-textract-in-node-js-9a72136c6e64 ...
